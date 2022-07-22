@@ -1,0 +1,9 @@
+investpy
+datetime
+lxml
+requests
+numpy
+pandas
+mljar-mercury
+matplotlib
+jupyter_contrib_nbextensions
